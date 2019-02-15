@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisOraculo", "RedisOraculo\RedisOraculo.csproj", "{FF980941-97F4-43F7-8B94-259A3868D023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF980941-97F4-43F7-8B94-259A3868D023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF980941-97F4-43F7-8B94-259A3868D023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF980941-97F4-43F7-8B94-259A3868D023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF980941-97F4-43F7-8B94-259A3868D023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C14283-69F3-4FAC-9475-5F0ADD22A387}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/RM332195
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RedisOraculo\\RedisOraculo.csproj
+		SccProjectName1 = RedisOraculo
+		SccLocalPath1 = RedisOraculo
+	EndGlobalSection
+EndGlobal
